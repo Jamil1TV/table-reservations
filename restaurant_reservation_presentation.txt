@@ -1,0 +1,104 @@
+SLIDE 1
+-----------------------------------
+01  /  RESTAURANT RESERVATION SYSTEM
+Restaurant Reservations That Release No-Show Tables
+A smart reservation and live table-status management system
+RESERVE  •  SEAT  •  RELEASE
+01 / 08
+Reserve it. Seat it. Release it if they are late.
+
+SLIDE 2
+-----------------------------------
+02  /  RESTAURANT RESERVATION SYSTEM
+Project Introduction
+A web-based reservation platform for a restaurant with 15 tables.
+RESERVE  •  SEAT  •  RELEASE
+02 / 08
+• Tables accommodate 2, 4, or 6 guests.
+• Customers book a date and time online.
+• Staff check in guests and monitor table availability.
+• Unclaimed reservations are released after 15 minutes.
+
+SLIDE 3
+-----------------------------------
+03  /  RESTAURANT RESERVATION SYSTEM
+Problem Statement
+Empty reserved tables can mean lost opportunities.
+RESERVE  •  SEAT  •  RELEASE
+03 / 08
+• Customers sometimes arrive late or do not show up.
+• Reserved tables remain unavailable to walk-in guests.
+• Manual reservation tracking can lead to confusion.
+• Staff need a reliable, real-time view of table status.
+
+SLIDE 4
+-----------------------------------
+04  /  RESTAURANT RESERVATION SYSTEM
+Project Objectives
+Make restaurant seating more efficient and predictable.
+RESERVE  •  SEAT  •  RELEASE
+04 / 08
+01   Simplify online table reservations
+02   Prevent overlapping bookings
+03   Support quick guest check-in
+04   Automatically release no-show tables
+05   Help staff serve walk-in customers
+
+SLIDE 5
+-----------------------------------
+05  /  RESTAURANT RESERVATION SYSTEM
+Functional Requirements
+Core capabilities of the system
+RESERVE  •  SEAT  •  RELEASE
+05 / 08
+CUSTOMERS
+• Select date, time, and party size
+• View available tables and reserve
+STAFF / SYSTEM
+• View reservations and table status
+• Check guests in
+• Release unclaimed tables after 15 minutes
+• Assign available tables to walk-ins
+
+SLIDE 6
+-----------------------------------
+06  /  RESTAURANT RESERVATION SYSTEM
+Non-Functional Requirements
+The system must be dependable and easy to use.
+RESERVE  •  SEAT  •  RELEASE
+06 / 08
+• Usability — clear, intuitive booking and staff interfaces
+• Performance — quick availability and status updates
+• Reliability — consistent reservations, no double bookings
+• Security — protected customer data and staff permissions
+• Responsiveness — desktop, tablet, and mobile support
+
+SLIDE 7
+-----------------------------------
+07  /  RESTAURANT RESERVATION SYSTEM
+System Workflow
+A simple process from booking to seating.
+RESERVE  •  SEAT  •  RELEASE
+07 / 08
+1   Customer selects date, time, and guest count
+↓
+2   System checks availability and confirms reservation
+↓
+3   Staff check in the customer on arrival
+↓
+4   If not checked in after 15 minutes, release the table
+↓
+5   Staff can seat a walk-in guest
+
+SLIDE 8
+-----------------------------------
+08  /  RESTAURANT RESERVATION SYSTEM
+Expected Outcomes
+Better use of tables. Smoother service.
+RESERVE  •  SEAT  •  RELEASE
+08 / 08
+• Less table capacity wasted on no-shows
+• More opportunities to seat walk-in customers
+• Clearer reservation and check-in management
+• Improved customer and staff experience
+THANK YOU
